@@ -4,7 +4,7 @@ O intuito deste repositório é compartilhar meu aprendizado com Ruby desde o ab
 
 ---
 
-## Junho/2024
+## [Junho/2024](https://github.com/jose-alison/iniciando_ruby/tree/main/junho)
 
 * Tipos básicos de dado
 * diferença entre puts e print
